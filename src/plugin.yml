@@ -1,0 +1,11 @@
+author: DavidDunnings
+database: false
+description: Holding a ender pearl hides the user from mobs
+main: dkdunnings.pop.main
+name: Pearl Of Peace
+startup: postworld
+version: '1.7'
+permissions:
+  pearl.use:
+    default: true
+    description: Player can use the pearl of peace ability.
